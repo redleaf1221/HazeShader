@@ -1,0 +1,4 @@
+option.HAZE_DENSITY=Haze Density
+option.HAZE_DENSITY.comment=Aerosol (smog) density. Higher means thicker haze, lower visibility, a dimmer/smaller sun and a redder low sun.
+option.HAZE_WEATHER=Weather Response
+option.HAZE_WEATHER.comment=Boost haze density while it is raining or thundering.
